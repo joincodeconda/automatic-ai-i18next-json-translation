@@ -159,3 +159,5 @@ export default function App() {
 ### 6. Use i18nowAI to translate to other languages
 
 To further translate your app into additional languages, employ i18nowAI. Simply upload your source translation file, select your target languages, and let i18nowAI handle the translation. Begin at [www.i18now.ai](https://www.i18now.ai).
+
+For more guidance on how to set up i18next for a React app, [refer to the i18nowAI blog](https://www.i18now.ai/blog/how-to-translate-your-react-app-into-multiple-languages).
